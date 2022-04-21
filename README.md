@@ -10,7 +10,6 @@ Meu nome é Gustavo Santana, tenho 21 anos, moro em Pernambuco, sou estudante de
 ![Sass](https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=CC6699&logo=Sass&logoColor=FFFFFF&label=)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavros&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavros&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Contact me
 

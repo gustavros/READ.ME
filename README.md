@@ -1,7 +1,5 @@
 # Olá. 👋
 
-<img align="right" src=".github/image.png" width="300"/>
-
 Meu nome é Gustavo Santana, tenho 21 anos, moro em Pernambuco, sou estudante de programação Front-End.
 
 ## 📋 Skills
